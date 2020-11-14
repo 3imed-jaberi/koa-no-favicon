@@ -1,4 +1,4 @@
-# no-favicon
+# koa-no-favicon
 
 Koa middleware to ignore favicon.* requests
 
