@@ -1,0 +1,30 @@
+{
+  "name": "koa-no-favicon",
+  "version": "1.0.0",
+  "description": "Koa middleware to ignore favicon.* requests",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3imed-jaberi/koa-no-favicon.git"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "favicon",
+    "fav",
+    "icon"
+  ],
+  "author": {
+    "name": "imed jaberi",
+    "email": "imed-jaberi@outlook.com",
+    "url": "https://www.3imed-jaberi.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "bugs": {
+    "url": "https://github.com/3imed-jaberi/koa-no-favicon/issues"
+  },
+  "homepage": "https://github.com/3imed-jaberi/koa-no-favicon#readme"
+}
